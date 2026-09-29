@@ -212,10 +212,23 @@ When the source data is updated, the analysis can be refreshed through Excel usi
 
 Examples of insights identified through the dashboard include:
 
-- [Add your first real finding here]
-- [Add your second real finding here]
-- [Add your third real finding here]
-- [Add your fourth real finding here]
+## Key Findings
+
+- **Technical Issues were the largest source of support demand**, accounting for 351 of 1,180 tickets, or approximately **29.7% of the total volume**.
+
+- **Billing was the second-largest support category**, with 231 tickets, representing approximately **19.6% of all cases**.
+
+- **April recorded the highest monthly ticket volume**, with 170 tickets, while June had the lowest volume, with 135 tickets.
+
+- **First Response SLA compliance reached 55.3%**, while Resolution SLA compliance was **50.0%**, indicating that a significant share of tickets exceeded the defined service targets.
+
+- **The average CSAT score was 3.79 out of 5**, suggesting generally positive customer satisfaction but with room for improvement.
+
+- **18% of tickets were reopened**, indicating that nearly one in five cases required additional work after the initial resolution.
+
+- The current **open backlog represents only 26 tickets out of 1,180**, approximately **2.2% of the total ticket volume**.
+
+- The gap between First Response SLA and Resolution SLA performance was only **5.3 percentage points**, suggesting that both initial response speed and final resolution efficiency should be monitored together.
 
 These findings should be based on the final cleaned dataset and dashboard rather than assumptions.
 
