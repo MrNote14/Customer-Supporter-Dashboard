@@ -237,7 +237,7 @@ These findings should be based on the final cleaned dataset and dashboard rather
 
 ## Files
 
-`Customer_Support.xlsx`
+`Customer Supporter.xlsx`
 
 Contains the complete Excel project, including the cleaned dataset, Power Query transformations, analytical structure, and interactive dashboard.
 
